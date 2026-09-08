@@ -2183,3 +2183,6 @@ footer {
     }
 }
 
+.envelope.carta-disponivel .papel-carta {
+    z-index: 6;
+}
